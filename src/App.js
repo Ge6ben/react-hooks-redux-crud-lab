@@ -1,5 +1,5 @@
-import React from "react";
-import RestaurantsContainer from "./features/restaurants/RestaurantsContainer";
+import React from 'react';
+import RestaurantsContainer from './features/restaurants/RestaurantsContainer';
 
 function App() {
   return (
